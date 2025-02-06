@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm RipMickel</h1>
-<h3 align="center">🌱 I’m currently learning Ionic</h3>
+<h3 align="center">KEEP MOVING FORWARD</h3>
 
 - 🔭 I’m currently studying on **IONIC**
 
-- 🌱 I’m currently learning **ionic**
+- 🌱 I’m currently  **student**
 
-- 💬 Ask me about **ionic**
-
-- 📫 How to reach me **gaudicosmickelangelo@gmail.com**
-
-- ⚡ Fun fact **STUDENT AT THE SAME TIME LOVER BOY**
+- ⚡ Fun fact **The First Computer Bug Was Real**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
