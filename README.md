@@ -3,10 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RipMickel&label=Profile%20views&color=0e75b6&base=467&style=flat" alt="RipMickel" /> </p>
 
-- 🔭 I’m currently studying on **IONIC**
 
-- 🌱 I’m currently  **student**
-
+- 🌱 "Code never lies, but comments sometimes do." – Ron Jeffries
+- 👨‍🎓 I’m currently an app dev student, turning ideas into reality—one **IONIC APP** at a time. 💻
 - ⚡ Fun fact **The First Computer Bug Was Real**
 
 
