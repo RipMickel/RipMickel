@@ -5,8 +5,8 @@
 
 
 - 🌱 "Code never lies, but comments sometimes do." – Ron Jeffries
-- 👨‍🎓 I’m currently 4th year IT student, turning ideas into reality
-- 💻 Currently working on our CAPSTONE PROJECT
+- 👨‍🎓 I'm turning ideas into reality
+- 💻 Currently doing my CAPSTONE PROJECT
 - ⚡ Fun fact **The First Computer Bug Was Real**
 
 
