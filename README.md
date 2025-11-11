@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RipMickel</h1>
 <h3 align="center">KEEP MOVING FORWARD</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RipMickel&label=Profile%20views&color=0e75b6&base=1000&style=flat" alt="RipMickel" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RipMickel&label=Profile%20views&color=0e75b6&base=10000&style=flat" alt="RipMickel" /> </p>
 
 
 - 🌱 "Code never lies, but comments sometimes do." – Ron Jeffries
