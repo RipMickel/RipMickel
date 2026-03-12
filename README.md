@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm RipMickel</h1>
 <h3 align="center">KEEP MOVING FORWARD</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RipMickel&label=Profile%20views&color=0e75b6&base=697960&style=flat" alt="RipMickel" /> </p>
-<a href="https://ripmickel.github.io/Portfolio/" target="_blank">
+
+<div class="quote" style="text-align: center;">
+<p> - 🌱 "Code never lies, but comments sometimes do." – Ron Jeffries</p>
+<p>- 👨‍🎓 I'm turning ideas into reality</p>
+<p>- 💻 Currently doing my CAPSTONE PROJECT</p>
+<p>- ⚡ Fun fact **The First Computer Bug Was Real**</p>
+</div>
+
+___________________________________________
+
+<p> ****Check the EARTH ORBIT**** </p>
+<a align="center" href="https://ripmickel.github.io/Portfolio/" target="_blank">
   <img src="https://raw.githubusercontent.com/samyk/samyk/8800642e089bef07a63c9c95cb62b5b551484467/.../c.svg" width="40%" height="40%" />
 </a>
 
-- 🌱 "Code never lies, but comments sometimes do." – Ron Jeffries
-- 👨‍🎓 I'm turning ideas into reality
-- 💻 Currently doing my CAPSTONE PROJECT
-- ⚡ Fun fact **The First Computer Bug Was Real**
 
 
 
