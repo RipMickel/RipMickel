@@ -2,7 +2,7 @@
 <h3 align="center">KEEP MOVING FORWARD</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RipMickel&label=Profile%20views&color=0e75b6&base=697960&style=flat" alt="RipMickel" /> </p>
-<a href="https://raw.githubusercontent.com/samyk/samyk/8800642e089bef07a63c9c95cb62b5b551484467/.../c.svg" target="https://ripmickel.github.io/Portfolio/">
+<a href="https://ripmickel.github.io/Portfolio/" target="https://ripmickel.github.io/Portfolio/">
   <img src="https://raw.githubusercontent.com/samyk/samyk/8800642e089bef07a63c9c95cb62b5b551484467/.../c.svg" />
 </a>
 
