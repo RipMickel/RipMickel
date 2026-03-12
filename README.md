@@ -2,8 +2,8 @@
 <h3 align="center">KEEP MOVING FORWARD</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RipMickel&label=Profile%20views&color=0e75b6&base=697960&style=flat" alt="RipMickel" /> </p>
-<a href="https://ripmickel.github.io/Portfolio/" target="https://ripmickel.github.io/Portfolio/">
-  <img src="https://raw.githubusercontent.com/samyk/samyk/8800642e089bef07a63c9c95cb62b5b551484467/.../c.svg" />
+<a href="https://ripmickel.github.io/Portfolio/" target="_blank">
+  <img src="https://raw.githubusercontent.com/samyk/samyk/8800642e089bef07a63c9c95cb62b5b551484467/.../c.svg" width="40%" height="40%" />
 </a>
 
 - 🌱 "Code never lies, but comments sometimes do." – Ron Jeffries
