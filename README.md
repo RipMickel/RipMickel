@@ -5,7 +5,8 @@
 <div class="quote" style="text-align: center;">
 <p> - 🌱 "Code never lies, but comments sometimes do." – Ron Jeffries</p>
 <p>- 👨‍🎓 I'm turning ideas into reality</p>
-<p>- 💻 Currently doing my CAPSTONE PROJECT</p>
+<p>- 💻  CAPSTONE PROJECT ✅</p>
+<p>- 🧛‍♂️  On-the-job training @ICS</p>
 <p>- ⚡ Fun fact **The First Computer Bug Was Real**</p>
 </div>
 
