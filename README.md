@@ -1,5 +1,5 @@
 <h1 align="center">mickel.dev</h1>
-<h3 align="center">KEEP MOVING FORWARD</h3>
+<h3 align="center">Full-stack dev</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RipMickel&label=Profile%20views&color=0e75b6&base=697960&style=flat" alt="RipMickel" /> </p>
 
 <div class="quote" style="text-align: center;">
