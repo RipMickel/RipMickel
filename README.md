@@ -1,6 +1,6 @@
 <h1 align="center">HI , I'm mickel.dev</h1>
 <h3 align="center">Always learning and improving.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RipMickel&label=Profile%20views&color=0e75b6&base=697960&style=flat" alt="RipMickel" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RipMickel&label=Profile%20views&color=0e75b6&base=346330&style=flat" alt="RipMickel" /> </p>
 
 <div class="quote" style="text-align: center;">
 <p> - 🌱 "Code never lies, but comments sometimes do." – Ron Jeffries</p>
