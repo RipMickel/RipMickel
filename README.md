@@ -1,9 +1,10 @@
-<h1 align="center">Hi, I'm mickel.dev </h1>
+<h1 align="center">Hi, I'm mickel.dev
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RipMickel&label=Profile%20views&color=0e75b6&style=flat&base=24234" alt="RipMickel" /> </p>
+   </h1>
 <h3 align="center">Always learning and improving.</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RipMickel&label=Profile%20views&color=0e75b6&style=flat" alt="RipMickel" />
-</p>
+
+
 
 <div align="center">
   <p>🌱 <i>"Code never lies, but comments sometimes do."</i> – Ron Jeffries</p>
