@@ -13,10 +13,11 @@
   <p>⚡ Fun fact: The first computer bug was real 🐞</p>
 </div>
 
-
+<h1></h1>
 
 <p> ****Check the ORBIT**** </p> <a align="center" href="https://ripmickel.github.io/Portfolio/" target="_blank"> <img src="https://raw.githubusercontent.com/samyk/samyk/8800642e089bef07a63c9c95cb62b5b551484467/.../c.svg" width="40%" height="40%" /> </a>
 
+<h2></h2>
 
 <h3 align="center">🛠️ Languages & Tools</h3>
 
