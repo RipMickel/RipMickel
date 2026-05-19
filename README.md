@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm mickel.dev
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RipMickel&label=Profile%20views&color=0e75b6&style=flat&base=24234" alt="RipMickel" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RipMickel&label=Profile%20views&color=0e75b6&style=flat&base=32234" alt="RipMickel" /> </p>
    </h1>
 <h3 align="center">Always learning and improving.</h3>
 
